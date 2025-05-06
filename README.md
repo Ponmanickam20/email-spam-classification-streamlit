@@ -21,7 +21,8 @@ This project is a machine learning web application built using **Support Vector 
 - Streamlit
 
 ## 📷 Demo
-![App Screenshot](screenshots/spam-classifier.png) <!-- Add a screenshot in a 'screenshots' folder -->
+![{1D0ADAEB-1B25-4777-A76F-DC5979CBDC55}](https://github.com/user-attachments/assets/7c3e5309-9928-4309-958a-f1b89e9ec9a0)
+ <!-- Add a screenshot in a 'screenshots' folder -->
 
 ## ▶️ Run Locally
 ```bash
